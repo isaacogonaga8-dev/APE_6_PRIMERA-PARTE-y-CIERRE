@@ -158,6 +158,4 @@ ape6-arreglos/
 
 
 
-⭐ Si te sirvió, ¡dale una estrella al repo! ⭐
 
-</div>
